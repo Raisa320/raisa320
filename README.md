@@ -1,6 +1,6 @@
 ![Raisa's GitHub Banner](./assets/BannerGitHub.png)
 
-### Hi there 👋
+Hi there 👋, 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raisa-orellana-rios) 
@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=raisa320&theme=dark&hide_border=false"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisa320&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=raisa320&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=raisa320&theme=dark&show_icons=true&locale=en" alt="raisa320" /></p>
 
 ## 🏆 GitHub Trophies
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=raisa320&theme=radical&no-frame=false&no-bg=false&margin-w=4"/></p>

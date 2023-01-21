@@ -1,3 +1,5 @@
+[![Raisa's GitHub Banner](./assets/Banner GitHub.png)]
+
 ### Hi there 👋
 
 <!--

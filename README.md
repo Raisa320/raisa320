@@ -14,7 +14,6 @@ Soy Egresada en Ingeniería en Computación e Informática, apasionada por el mu
 
 ## 🌐 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raisa-orellana-rios) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:raisa.orellana.rios@gmail.com)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=raisa320&icon=0&color=0)](https://visitcount.itsvg.in)
